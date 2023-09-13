@@ -1,4 +1,4 @@
-""" Adds all components to a spaCy pipeline."""
+""" Добавляет все компоненты в конвейер SpaCy.."""
 from spacy.language import Language
 from spacy.tokens import Doc
 
